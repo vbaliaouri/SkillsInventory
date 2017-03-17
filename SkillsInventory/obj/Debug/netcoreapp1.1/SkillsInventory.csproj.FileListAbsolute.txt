@@ -1,0 +1,9 @@
+C:\Clients\ACS\dotnet\SkillInventoryGit\SkillsInventory\bin\Debug\netcoreapp1.1\SkillsInventory.deps.json
+C:\Clients\ACS\dotnet\SkillInventoryGit\SkillsInventory\bin\Debug\netcoreapp1.1\SkillsInventory.runtimeconfig.json
+C:\Clients\ACS\dotnet\SkillInventoryGit\SkillsInventory\bin\Debug\netcoreapp1.1\SkillsInventory.runtimeconfig.dev.json
+C:\Clients\ACS\dotnet\SkillInventoryGit\SkillsInventory\bin\Debug\netcoreapp1.1\SkillsInventory.dll
+C:\Clients\ACS\dotnet\SkillInventoryGit\SkillsInventory\bin\Debug\netcoreapp1.1\SkillsInventory.pdb
+C:\Clients\ACS\dotnet\SkillInventoryGit\SkillsInventory\obj\Debug\netcoreapp1.1\SkillsInventory.csprojResolveAssemblyReference.cache
+C:\Clients\ACS\dotnet\SkillInventoryGit\SkillsInventory\obj\Debug\netcoreapp1.1\SkillsInventory.AssemblyInfo.cs
+C:\Clients\ACS\dotnet\SkillInventoryGit\SkillsInventory\obj\Debug\netcoreapp1.1\SkillsInventory.dll
+C:\Clients\ACS\dotnet\SkillInventoryGit\SkillsInventory\obj\Debug\netcoreapp1.1\SkillsInventory.pdb
